@@ -1,2 +1,2 @@
 # Student_Management
-working the backend with springboot and JPA 
+working only with the backend management, springboot and JPA. 
